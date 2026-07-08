@@ -39,7 +39,7 @@ CPU||PID -> random seeding to the STACK;
 
 MFT||MVP -> cmd line windows stat;
 
-GPU to PKI -> cap to jecht to daq;
+GPU||PKI -> cap to jecht to daq;
 
 MMU to Buckets -> Bits to Hex to Batch;
 
