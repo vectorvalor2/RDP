@@ -9,11 +9,13 @@ Adds new subsections for better organization,\
 Removes redundant content where applicable)
 #endif
 
-#Interlock/Interlink % Interject Eraser on all searchable objects & interchangeable codeblocks
-
-#Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
+#Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject Eraser on all searchable objects & interchangeable codeblocks
 
 #Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
+
+#Inject AI Image Generator to Safe Simulated Game Development Environment: Renders high-resolution images up to 4K from descriptive text prompts or reference images
+
+#Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
@@ -37,7 +39,7 @@ CPU||PID -> random seeding to the STACK;
 
 MFT||MVP -> cmd line windows stat;
 
-NIC to PKI -> cap to jecht to daq;
+GPU to PKI -> cap to jecht to daq;
 
 MMU to Buckets -> Bits to Hex to Batch;
 
