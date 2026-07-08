@@ -1,11 +1,12 @@
 #REDPARSON GAME ENGINE WITH A SELECTIVE SORT IN A REFINED SEARCH
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
+#Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 #Using SIMD In Vulkan
 
 
 RED(*replicant,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
 
-&Discernment(*CyGlobsGL, &POE, *CyGlobsFrameworkFile) 
+&Discernment(*SIMD In Vulkan, &POE, *CyGlobsPythonFramework) 
 #implies the intelligence to separate the high-quality from the poor, and the genuine from the fake
 
 &POE(point of execution)
