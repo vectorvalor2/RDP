@@ -13,7 +13,7 @@ Removes redundant content where applicable)
 
 #Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
 
-#Inject all-in-one AI generative creative platform to Safe Simulated Game Development Environment that renders high-resolution images, audio and video up to 4k from descriptive text prompts or reference images
+/*Inject all-in-one AI generative creative platform to Safe Simulated Game Development Environment that renders high-resolution images, audio and video up to 4k from descriptive text prompts or reference images*/
 
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
 
