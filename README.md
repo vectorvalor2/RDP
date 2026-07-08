@@ -1,6 +1,7 @@
 REDPARSON GAME ENGINE: A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine
 
 #ifndef Eraser 
+
 #define Eraser(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
 Adds new subsections for better organization,\
