@@ -13,7 +13,7 @@ Removes redundant content where applicable)
 
 /*engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — and the bumpy wireframe terrain is replaced by a smooth, flat reference grid*/
 
-/*Make all-in-one AI generative creative platform with physics interactions and Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, video up to 4k, and audio from descriptive text prompts and/or reference images*/
+/*Make all-in-one AI generative creative platform with physics interactions that sync up to audio and Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, and video up to 4k from descriptive text prompts and/or reference images*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
