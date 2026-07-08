@@ -1,7 +1,5 @@
 REDPARSON GAME ENGINE: A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine
 
-/*engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — and the bumpy wireframe terrain is replaced by a smooth, flat reference grid*/
-
 #ifndef Eraser: A Selection Sort In A Refined Search
 #define Eraser(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
@@ -9,7 +7,13 @@ Adds new subsections for better organization,\
 Removes redundant content where applicable)
 #endif
 
-/*Make all-in-one AI generative creative platform with physics interactions and Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, video up to 4k, and audio from descriptive text prompts or reference images*/
+#Using SIMD In Vulkan
+
+#Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
+
+/*engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — and the bumpy wireframe terrain is replaced by a smooth, flat reference grid*/
+
+/*Make all-in-one AI generative creative platform with physics interactions and Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, video up to 4k, and audio from descriptive text prompts and/or reference images*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
@@ -18,10 +22,6 @@ Removes redundant content where applicable)
 #Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
 
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
-
-#Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
-
-#Using SIMD In Vulkan
 
 #Enable object drag-drop, add performance logs, and build material editor 
 
