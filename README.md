@@ -1,4 +1,4 @@
-#REDPARSON WITH A SELECTIVE SORT IN A REFINED SEARCH
+#REDPARSON GAME ENGINE WITH A SELECTIVE SORT IN A REFINED SEARCH
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
 #Using SIMD In Vulkan
 
