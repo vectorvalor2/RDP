@@ -8,7 +8,8 @@ Create a real-time 3D computer graphics software suite and game engine with this
 
 #Using SIMD In Vulkan
 
-#Enable object drag-drop, add performance logs, and build material editor, enable interactive placement, and create project library, create texture library, and add performance charts
+#Enable object drag-drop, add performance logs, and build material editor 
+#Enable interactive placement, and create project library, create texture library, and add performance charts
 
 RED(*replicant,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
 
