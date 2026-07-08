@@ -1,8 +1,19 @@
 Create a real-time 3D computer graphics software suite and game engine with this script - 
 
-#REDPARSON GAME ENGINE WITH A SELECTIVE SORT IN A REFINED SEARCH 
+#REDPARSON GAME ENGINE WITH A SELECTIVE SORT IN A REFINED SEARCH
 
-#Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data 
+#ifndef Eraser
+#define Eraser(Expands all existing sections with more detail,\
+Refines wording for clarity and impact,\
+Adds new subsections for better organization,\
+Removes redundant content where applicable)
+#endif
+
+#Interlock/Interlink % Interject Eraser on all searchable objects & interchangeable codeblocks
+
+#Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
+
+#Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
@@ -11,6 +22,8 @@ Create a real-time 3D computer graphics software suite and game engine with this
 #Enable object drag-drop, add performance logs, and build material editor 
 
 #Enable interactive placement, and create project library, create texture library, and add performance charts
+
+#Enable File Uploading & Downloading whenever necessary
 
 RED(*replicant,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
 
