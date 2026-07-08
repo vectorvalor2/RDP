@@ -1,6 +1,6 @@
 REDPARSON GAME ENGINE: A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine
 
-#ifndef Eraser: A Selection Sort In A Refined Search, Diagnoses and Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence 
+#ifndef Eraser /*A Selection Sort In A Refined Search, Diagnoses and Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/ 
 #define Eraser(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
 Adds new subsections for better organization,\
@@ -46,6 +46,8 @@ MFT||MVP -> cmd line windows stat;
 GPU||PKI -> cap to jecht to daq;
 
 MMU to Buckets -> Bits to Hex to Batch;
+
+Eraser
 
 SAFE SIMULATED GAME DEVELOPMENT ENVIRONMENT
 
