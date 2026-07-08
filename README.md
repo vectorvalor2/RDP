@@ -26,7 +26,7 @@ Removes redundant content where applicable);
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
-#Inject Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject &POE << Replicate << Erase << Deduplicate on all searchable objects & interchangeable codeblocks
+#Inject Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject &POE << *Replicate << *Erase << *Deduplicate on all searchable objects & interchangeable codeblocks
 
 #Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
 
