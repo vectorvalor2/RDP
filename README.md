@@ -2,7 +2,7 @@ REDPARSON GAME ENGINE:
 
 /*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
 
-#ifndef Eraser 
+#ifndef Erase 
 
 #define Eraser(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
@@ -20,27 +20,29 @@ Removes redundant content where applicable)
 
 /*Added a real-time waveform display in the studio that visualizes the audio output triggered by collisions and particle bursts so you can see the sound intensity*/
 
-/*Make all-in-one AI generative creative platform with physics engine interactions that sync up to an audio synthesis layer that triggers unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique. Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, and video up to 4k from descriptive text prompts and/or reference images*/
+/*Make all-in-one AI generative creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
+
+/*build project templates to the Safe Simulated Game Development Environment to render high-resolution images, and video up to 4k from descriptive text prompts and/or reference images*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
-#Inject Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject Eraser on all searchable objects & interchangeable codeblocks
+#Inject Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject &POE << Replicate << Erase << Deduplicate on all searchable objects & interchangeable codeblocks
 
 #Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
 
+RED(*replicate,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
+
+&Discernment(*SIMD In Vulkan, &POE, *CyGlobsPythonFramework) 
+
+/*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
+
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
+
+#Enable File Uploading & Downloading to and from seeded buckets
 
 #Enable object drag-drop, add performance logs, and build material editor 
 
 #Enable interactive placement, and create project library, create texture library, and add performance charts
-
-#Enable File Uploading & Downloading whenever necessary
-
-RED(*replicant,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
-
-&Discernment(*SIMD In Vulkan, &POE, *CyGlobsPythonFramework) 
-
-#implies the intelligence to separate the high-quality from the poor, and the genuine from the fake
 
 &POE(point of execution)
 
@@ -51,8 +53,6 @@ MFT||MVP -> cmd line windows stat;
 GPU||PKI -> cap to jecht to daq;
 
 MMU to Buckets -> Bits to Hex to Batch;
-
-Eraser
 
 SAFE SIMULATED GAME DEVELOPMENT ENVIRONMENT
 
