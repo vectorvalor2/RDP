@@ -10,7 +10,7 @@ Adds new subsections for better organization,\
 Removes redundant content where applicable)
 #endif
 
-/*A Selection Sort In A Refined Search, Diagnoses and Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/ 
+/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/ 
 
 #Using SIMD In Vulkan
 
