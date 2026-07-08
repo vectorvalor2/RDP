@@ -1,8 +1,14 @@
 Create a real-time 3D computer graphics software suite and game engine with this script - 
+
 #REDPARSON GAME ENGINE WITH A SELECTIVE SORT IN A REFINED SEARCH 
+
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data 
-#Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git 
+
+#Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
+
 #Using SIMD In Vulkan
+
+#enable object drag-drop, add performance logs, and build material editor
 
 RED(*replicant,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
 
