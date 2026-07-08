@@ -13,7 +13,7 @@ Removes redundant content where applicable)
 
 /*engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — and the bumpy wireframe terrain is replaced by a smooth, flat reference grid*/
 
-/*Make all-in-one AI generative creative platform with physics interactions that sync up to audio and Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, and video up to 4k from descriptive text prompts and/or reference images*/
+/*Make all-in-one AI generative creative platform with physics engine interactions that sync up to an audio synthesis layer that triggers unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique. Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, and video up to 4k from descriptive text prompts and/or reference images*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
