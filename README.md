@@ -9,12 +9,12 @@ Adds new subsections for better organization,\
 Removes redundant content where applicable)
 #endif
 
-#Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject Eraser on all searchable objects & interchangeable codeblocks
-
-#Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
-
 /*Inject all-in-one AI generative creative platform to Safe Simulated Game Development Environment that renders high-resolution images, audio and video up to 4k from descriptive text prompts or reference images*/
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
+
+#Inject Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject Eraser on all searchable objects & interchangeable codeblocks
+
+#Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
 
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
 
