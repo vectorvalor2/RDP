@@ -7,18 +7,18 @@ REDPARSON GAME ENGINE:
 #define Eraser(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
 Adds new subsections for better organization,\
-Removes redundant content where applicable)
+Removes redundant content where applicable);
 #endif
 
-/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/ 
+/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/
+
+/*Added engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — in a smooth, flat reference grid*/
+
+/*Added a real-time waveform display in the studio that visualizes the audio output triggered by collisions and particle bursts so you can see the sound intensity*/ 
 
 #Using SIMD In Vulkan
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
-
-/*engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — and the bumpy wireframe terrain is replaced by a smooth, flat reference grid*/
-
-/*Added a real-time waveform display in the studio that visualizes the audio output triggered by collisions and particle bursts so you can see the sound intensity*/
 
 /*Make all-in-one AI generative creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
 
@@ -32,13 +32,13 @@ Removes redundant content where applicable)
 
 RED(*replicate,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
 
-&Discernment(*SIMD In Vulkan, &POE, *CyGlobsPythonFramework) 
+&Discernment(*SIMD In Vulkan, &POE, *CyGlobsPythonFramework); 
 
 /*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
 
 #Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
 
-#Enable File Uploading & Downloading to and from seeded buckets
+#Enable File Uploading & Downloading from seeded buckets to the studio
 
 #Enable object drag-drop, add performance logs, and build material editor 
 
