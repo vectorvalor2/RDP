@@ -25,3 +25,76 @@ MFT||MVP -> cmd line windows stat;
 NIC to PKI -> cap to jecht to daq;
 
 MMU to Buckets -> Bits to Hex to Batch;
+
+SAFE SIMULATED GAME DEVELOPMENT ENVIRONMENT
+
+                         ┌──────────────────────────────┐
+                         │        CI/CD PIPELINE         │
+                         │  Build → Test → Package       │
+                         └──────────────┬───────────────┘
+                                        │
+                                        ▼
+
+┌────────────────────────────────────────────────────────────────────┐
+│                    SAFE SIMULATION SANDBOX                          │
+│                                                                    │
+│   ┌──────────────────────┐        ┌──────────────────────────┐      │
+│   │  BLUE WIREFRAME MAP  │        │   ASSET REGISTRY          │      │
+│   │  - terrain shell     │◄──────►│   - models                │      │
+│   │  - rooms / portals   │        │   - textures              │      │
+│   │  - clip-space grid   │        │   - animations            │      │
+│   └──────────┬───────────┘        └───────────┬──────────────┘      │
+│              │                                │                     │
+│              ▼                                ▼                     │
+│   ┌──────────────────────┐        ┌──────────────────────────┐      │
+│   │ RED SOLID CUBES      │        │ GREEN DASHED CUBES        │      │
+│   │ Safety Bounds        │───────►│ Transform Checkpoints      │      │
+│   │ - collision tests    │        │ - rotation targets         │      │
+│   │ - spawn limits       │        │ - animation states         │      │
+│   │ - no-risk zones      │        │ - rollback anchors         │      │
+│   └──────────┬───────────┘        └───────────┬──────────────┘      │
+│              │                                │                     │
+│              └──────────────┬─────────────────┘                     │
+│                             ▼                                       │
+│                  ┌──────────────────────┐                           │
+│                  │ MVP / CLIP SPACE      │                           │
+│                  │ Model → View → Project│                           │
+│                  │ Normalize → Validate  │                           │
+│                  └──────────┬───────────┘                           │
+│                             ▼                                       │
+│                  ┌──────────────────────┐                           │
+│                  │ SAFE RENDER OUTPUT    │                           │
+│                  │ - debug overlay       │                           │
+│                  │ - stable frame state  │                           │
+│                  │ - no destructive ops  │                           │
+│                  └──────────────────────┘                           │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+Core Layers
+Scene
+ ├─ MapLayer
+ │   ├─ terrainGrid
+ │   ├─ portals
+ │   └─ collisionShell
+ │
+ ├─ AssetLayer
+ │   ├─ models
+ │   ├─ props
+ │   ├─ animations
+ │   └─ materials
+ │
+ ├─ SafetyLayer
+ │   ├─ redBoundingCubes
+ │   ├─ safeSpawnZones
+ │   └─ rollbackPoints
+ │
+ ├─ TransformLayer
+ │   ├─ greenDashedCheckpoints
+ │   ├─ rotationVectors
+ │   └─ timeStepStates
+ │
+ └─ RenderLayer
+     ├─ blueWireframeMode
+     ├─ clipSpaceProjection
+     └─ debugToggle
