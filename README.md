@@ -1,5 +1,5 @@
-REDPARSON GAME ENGINE
-#A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine
+REDPARSON GAME ENGINE: A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine
+
 /*engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — and the bumpy wireframe terrain is replaced by a smooth, flat reference grid*/
 
 #ifndef Eraser: A Selection Sort In A Refined Search
@@ -9,7 +9,8 @@ Adds new subsections for better organization,\
 Removes redundant content where applicable)
 #endif
 
-/*Inject all-in-one AI generative creative platform to Safe Simulated Game Development Environment that renders high-resolution images, audio and video up to 4k from descriptive text prompts or reference images*/
+/*Make all-in-one AI generative creative platform with physics interactions and Build project templates to the Safe Simulated Game Development Environment to render high-resolution images, video up to 4k, and audio from descriptive text prompts or reference images*/
+
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
 #Inject Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject Eraser on all searchable objects & interchangeable codeblocks
