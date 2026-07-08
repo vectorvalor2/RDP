@@ -1,4 +1,4 @@
-Create a real-time 3D computer graphics software suite and game engine with this script - 
+Create a real-time 3D computer graphics software suite and AI game engine with this script - 
 
 #REDPARSON GAME ENGINE WITH A SELECTIVE SORT IN A REFINED SEARCH
 
