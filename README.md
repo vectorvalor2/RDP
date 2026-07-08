@@ -1,8 +1,8 @@
-Create a Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine with this script - 
+REDPARSON GAME ENGINE
+#A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine
+/*engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — and the bumpy wireframe terrain is replaced by a smooth, flat reference grid*/
 
-#REDPARSON GAME ENGINE: FOR A SELECTIVE SORT IN A REFINED SEARCH
-
-#ifndef Eraser
+#ifndef Eraser: A Selection Sort In A Refined Search
 #define Eraser(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
 Adds new subsections for better organization,\
