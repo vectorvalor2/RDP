@@ -45,6 +45,7 @@ Constructor RED(&Assets(*replicate, &extract, deduplicate));
 QUOTAS /= Searchable Objects % Interchangeable Codeblocks;
 
 CLASS POE
+
 &POE(point of execution)
 
 CPU||PID -> random seeding to the STACK;
