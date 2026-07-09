@@ -38,7 +38,7 @@ Removes redundant content where applicable);
 
 CLASS RED
 
-Constructor RED(&Assets(*replicate, &extract, deduplicate));
+Constructor RED(&Assets(*replicate, &extract, *deduplicate));
 
 /*Model-View-Controller Pipeline*/
 
