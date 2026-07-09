@@ -5,8 +5,8 @@ REDPARSON GAME ENGINE:
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
 /*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
+/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/
 
- /*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/
 #ifndef cmp
 #define cmp(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
