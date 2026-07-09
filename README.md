@@ -6,7 +6,7 @@ REDPARSON GAME ENGINE: Important - Integrate AI only to REDPARSON GAME ENGINE lo
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
-/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/
+/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes In Precedence To Deadlocks, Hang Ups, AND/OR Racing Conditions*/
 
 #ifndef cmp
 #define cmp(Expands all existing sections with more detail,\
