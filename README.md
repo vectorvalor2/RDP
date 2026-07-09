@@ -17,7 +17,7 @@ Removes redundant content where applicable);
 
 /*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts to reference images*/
 
-/*build Scene modifier to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets to Projects -> Scenes to viewport*/
+/*build Scene modifier to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets to Projects to Scenes to viewport*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
