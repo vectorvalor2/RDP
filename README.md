@@ -18,7 +18,7 @@ Removes redundant content where applicable);
 
 /*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts and/or reference images*/
 
-/*build an AI Scene Generator to generate 3D Scenes, Game Levels, Simulations, and Particle Systems to Assets -> Projects -> Scenes from extracting many reference images*/
+/*build an AI Scene Generator to generate 3D Scenes, Game Levels, Simulations, and Particle Systems to Assets -> Projects -> Scenes to viewport from extracting many reference images*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
