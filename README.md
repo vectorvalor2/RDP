@@ -1,10 +1,11 @@
 REDPARSON GAME ENGINE:
 
+/*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
+
 #Using WebGL (Three.js) and the Web Audio API
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
-/*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
 /*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/
 
 #ifndef cmp
