@@ -42,7 +42,7 @@ Constructor RED(&Assets(*replicate, &extract, deduplicate));
 
 /*Model-View-Controller Pipeline*/
 
-&POE << xor << cmp.OpenGL << cmp.CyGlobsPythonFramework << cmp.Safe Simulated Game Development Environment
+&POE << xor << cmp.OpenGL << cmp.CyGlobsPythonFramework << cmp.safe-simulated-game-development-environment
 
 QUOTAS /= Searchable Objects % Interchangeable Codeblocks;
 
