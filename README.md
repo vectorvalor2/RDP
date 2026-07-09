@@ -19,7 +19,7 @@ Removes redundant content where applicable);
 
 /*interlock/interlink % interject ui components -> scene hierarchy, asset browser, material editor, scene modifier, projects, textures, performance, console, and GUI settings running on top of the safe simulated environment*/
 
-/*Inject The &Discernment Object Relative To RED Constructor Function Parameters For Utilizing &POE to Separate Code From Data*/
+/*inject the &discernment object to the RED constructor function, on top of separation of concerns % cross-cutting concerns, thereof, &POE is to Separate Code From Data*/
 
 /*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
 
