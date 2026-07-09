@@ -17,7 +17,7 @@ Removes redundant content where applicable);
 
 /*Make all-in-one AI generative creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
 
-/*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts and/or reference images*/
+/*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts to reference images*/
 
 /*build an AI Scene Generator to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets -> Projects -> Scenes to viewport*/
 
