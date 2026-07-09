@@ -1,12 +1,10 @@
-REDPARSON GAME ENGINE: Important - AI is integrated into REDPARSON GAME ENGINE logic, there are no exceptions in calling APIs outside of the official documentation
+REDPARSON GAME ENGINE:
 
-/*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
+/*Model View Controller unreal-time 3D computer graphics software suite and game engine*/
 
 #Using WebGL (Three.js) and the Web Audio API
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
-
-/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions*/
 
 #ifndef cmp
 #define cmp(Expands all existing sections with more detail,\
@@ -15,15 +13,15 @@ Adds new subsections for better organization,\
 Removes redundant content where applicable);
 #endif
 
-/*Make all-in-one AI generative creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
+/*Make all-in-one creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
 
 /*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts to reference images*/
 
-/*build an AI Scene Generator to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets -> Projects -> Scenes to viewport*/
+/*build Scene modifier to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets to Projects -> Scenes to viewport*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
-/*Added engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — in a smooth, flat reference grid*/
+/*Added engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield*/
 
 /*Inject Linker, Preprocessor, & Compiler*/
 
@@ -31,7 +29,7 @@ Removes redundant content where applicable);
 
 /*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
 
-/*Enable read/write to file, update and delete*/
+/*Enable file reader/writer, and/or updater*/
 
 /*Enable object drag-drop, add performance logs, and build material editor*/ 
 
