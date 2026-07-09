@@ -31,7 +31,7 @@ Removes redundant content where applicable);
 
 /*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
 
-/*Enable reading and writing to files from the file system*/
+/*Enable read/write to file, update and/or remove*/
 
 /*Enable object drag-drop, add performance logs, and build material editor*/ 
 
