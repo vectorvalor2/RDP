@@ -1,6 +1,6 @@
 REDPARSON GAME ENGINE:
 
-/*Model View Controller unreal-time 3D computer graphics software suite and game engine*/
+/*model-view-controller unreal-time 3D computer graphics software suite and game engine*/
 
 #Using WebGL (Three.js) and the Web Audio API
 
@@ -13,7 +13,7 @@ Adds new subsections for better organization,\
 Removes redundant content where applicable);
 #endif
 
-/*Make all-in-one creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
+/*make all-in-one creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
 
 /*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts to reference images*/
 
@@ -38,8 +38,6 @@ Removes redundant content where applicable);
 CLASS RED
 
 Constructor RED(&Assets(*replicate, &extract, *deduplicate));
-
-/*Model-View-Controller Pipeline*/
 
 &POE << xor << cmp.(WebGL (Three.js) and the Web Audio API) << cmp.CyGlobsPythonFramework << cmp.safe-simulated-game-development-environment;
 
