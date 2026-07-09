@@ -1,4 +1,4 @@
-REDPARSON GAME ENGINE: Important - Integrate AI to this project only with REDPARSON GAME ENGINE logic, no exceptions in using API calls outside of the official documentation
+REDPARSON GAME ENGINE: Important - Integrate AI only to REDPARSON GAME ENGINE logic, no exceptions in using API calls outside of the official documentation
 
 /*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
 
