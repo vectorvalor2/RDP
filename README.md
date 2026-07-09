@@ -35,8 +35,11 @@ Removes redundant content where applicable);
 /*Enable interactive placement, and create project library, create texture library, and add performance charts*/
 
 CLASS RED
+
 Constructor RED(&Assets(*replicate, &extract, deduplicate));
+
 /*Model-View-Controller Pipeline*/
+
 &POE << xor << cmp.OpenGL << cmp.CyGlobsPythonFramework << cmp.Safe Simulated Game Development Environment
 
 QUOTAS /= Searchable Objects % Interchangeable Codeblocks;
@@ -53,7 +56,11 @@ GPU||GUI -> cap to jecht to daq;
 MMU to Buckets -> Bits to Hex to Batch;
 
 MAIN
-&RED(&Discernment(*OpenGL, &POE, *CyGlobsPythonFramework)); /*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
+
+&RED(&Discernment(*OpenGL, &POE, *CyGlobsPythonFramework)); 
+
+/*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
+
 RETURN 0;
 
 SAFE SIMULATED GAME DEVELOPMENT ENVIRONMENT
