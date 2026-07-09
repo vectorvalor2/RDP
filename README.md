@@ -49,7 +49,7 @@ QUOTAS /= Searchable Objects % Interchangeable Codeblocks;
 
 CLASS POE
 
-&POE(point of execution)
+&POE(point of execution);
 
 CPU||PID -> random seeding to the STACK;
 
