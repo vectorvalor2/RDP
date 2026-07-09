@@ -15,6 +15,20 @@ Removes redundant content where applicable);
 
 #endif
 
+/*linker, preprocessor, & compiler cmds*/
+
+/*interlock/interlink % interject ui components -> scene hierarchy, asset browser, material editor, scene modifier, projects, textures, performance, console, and GUI settings running on top of the safe simulated environment*/
+
+/*Inject The &Discernment Object Relative To RED Constructor Function Parameters For Utilizing &POE to Separate Code From Data*/
+
+/*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
+
+/*Enable file reader in order to update to file*/
+
+/*Enable object drag-drop, add performance logs, and build material editor*/ 
+
+/*Enable interactive placement, and create project library, create texture library, and add performance charts*/
+
 /*make all-in-one creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
@@ -24,18 +38,6 @@ Removes redundant content where applicable);
 /*build Scene modifier to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets to Projects to Scenes to engine viewport*/
 
 /*build the default engine viewport that opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a distant starfield*/
-
-/*Inject Linker, Preprocessor, & Compiler*/
-
-/*Inject The &Discernment Object Relative To RED Constructor Function Parameters For Utilizing &POE to Separate Code From Data*/
-
-/*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
-
-/*Enable file reader/writer, and/or updater*/
-
-/*Enable object drag-drop, add performance logs, and build material editor*/ 
-
-/*Enable interactive placement, and create project library, create texture library, and add performance charts*/
 
 CLASS RED
 
