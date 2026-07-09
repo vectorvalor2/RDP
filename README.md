@@ -35,9 +35,9 @@ Removes redundant content where applicable);
 
 /*build project templates, cut copy generated scenes into the Safe Simulated Game Development Environment, while mapping out the scene hierarchy, gaming simulations are rendered up to 4k from an architected AI-assisted generation provisioner, that keeps the engine modular and allows different generation services to be plugged in without coupling the editor to one AI model*/
 
-/*build Scene modifier to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets to Projects to Scenes to engine viewport*/
+/*build scene modifier to generate 3D scenes, game levels, simulations, and particle systems from assets to projects to scenes to generate the engine viewport*/
 
-/*build the sandbox into a full diagram (CI/CD → sandbox zones with asset registry, safety bounds, transform checkpoints → MVP clip space → safe render output), add a new Interlinked UI section showing all nine interlocked panels running on top of the safe environment, refine the audio synthesis descriptions, and remove the redundant field*/
+/*build the sandbox into a full diagram (CI/CD → sandbox zones with asset registry, safety bounds, transform checkpoints → MVP clip space → safe render output), add a new Interlinked UI section showing all nine interlocked panels running on top of the safe environment, refine the audio synthesis descriptions, and remove the redundant fields*/
 
 /*build the default engine viewport that opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a distant starfield*/
 
