@@ -1,58 +1,60 @@
-REDPARSON GAME ENGINE: 
+REDPARSON GAME ENGINE:
+
+#Using OpenGL
+
+#Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
 /*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
 
-#ifndef Erase 
-
-#define Eraser(Expands all existing sections with more detail,\
+ /*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/
+#ifndef cmp
+#define cmp(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
 Adds new subsections for better organization,\
 Removes redundant content where applicable);
 #endif
 
-/*A Selection Sort In A Refined Search, A Diagnostic that Applies Fixes To Deadlocks, Hang Ups, AND/OR Racing Conditions In Precedence*/
-
-/*Added engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — in a smooth, flat reference grid*/
-
-/*Added a real-time waveform display in the studio that visualizes the audio output triggered by collisions and particle bursts so you can see the sound intensity*/ 
-
-#Using SIMD In Vulkan
-
-#Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
-
 /*Make all-in-one AI generative creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
 
-/*build project templates to the Safe Simulated Game Development Environment to render high-resolution images, and video up to 4k from descriptive text prompts and/or reference images*/
+/*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts and/or reference images*/
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
-#Inject Linker, Preprocessor, & Compiler: Interlock/Interlink % Interject &POE << *Replicate << *Erase << *Deduplicate on all searchable objects & interchangeable codeblocks
+/*Added engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield — in a smooth, flat reference grid*/
 
-#Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow
+/*Inject Linker, Preprocessor, & Compiler*/
 
-RED(*replicate,&extract, *deduplicate).QUOTAS/ Searchable Objects % Interchangeable Codeblocks;
+/*Inject The &Discernment Object Relative To RED Constructor Function Parameters For Utilizing &POE to Separate Code From Data*/
 
-&Discernment(*SIMD In Vulkan, &POE, *CyGlobsPythonFramework); 
+/*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
 
-/*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
+/*Enable File Uploading & Downloading from seeded buckets to the studio*/
 
-#Inject The &Discernment Object Relative To RED Function Parameters For Utilizing &POE to Separate Code From Data
+/*Enable object drag-drop, add performance logs, and build material editor*/ 
 
-#Enable File Uploading & Downloading from seeded buckets to the studio
+/*Enable interactive placement, and create project library, create texture library, and add performance charts*/
 
-#Enable object drag-drop, add performance logs, and build material editor 
+CLASS RED
+Constructor RED(&Assets(*replicate, &extract, deduplicate));
+/*Model-View-Controller Pipeline*/
+&POE << xor << cmp.OpenGL << cmp.CyGlobsPythonFramework << cmp.Safe Simulated Game Development Environment
 
-#Enable interactive placement, and create project library, create texture library, and add performance charts
+QUOTAS /= Searchable Objects % Interchangeable Codeblocks;
 
+CLASS POE
 &POE(point of execution)
 
 CPU||PID -> random seeding to the STACK;
 
 MFT||MVP -> cmd line windows stat;
 
-GPU||PKI -> cap to jecht to daq;
+GPU||GUI -> cap to jecht to daq;
 
 MMU to Buckets -> Bits to Hex to Batch;
+
+MAIN
+&RED(&Discernment(*OpenGL, &POE, *CyGlobsPythonFramework)); /*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
+RETURN 0;
 
 SAFE SIMULATED GAME DEVELOPMENT ENVIRONMENT
 
