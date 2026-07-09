@@ -1,27 +1,29 @@
 REDPARSON GAME ENGINE:
 
-/*model-view-controller unreal-time 3D computer graphics software suite and game engine*/
+/*3D computer graphics software suite and game engine core*/
 
 #Using WebGL (Three.js) and the Web Audio API
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
 #ifndef cmp
+
 #define cmp(Expands all existing sections with more detail,\
 Refines wording for clarity and impact,\
 Adds new subsections for better organization,\
 Removes redundant content where applicable);
+
 #endif
 
 /*make all-in-one creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
 
-/*build project templates to the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts to reference images*/
-
-/*build Scene modifier to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets to Projects to Scenes to viewport*/
-
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
-/*Added engine viewport now opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a starfield*/
+/*build project templates, cut copy generated scenes into the scene hierarchy from the Safe Simulated Game Development Environment to render gaming simulations up to 4k from descriptive text prompts to reference images*/
+
+/*build Scene modifier to generate 3D Scenes, Game Levels, Simulations, and Particle Systems from Assets to Projects to Scenes to engine viewport*/
+
+/*build the default engine viewport that opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a distant starfield*/
 
 /*Inject Linker, Preprocessor, & Compiler*/
 
