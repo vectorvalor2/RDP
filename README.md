@@ -1,4 +1,4 @@
-REDPARSON GAME ENGINE: Important - Integrate AI to this project ONLY with the logic utilized in REDPARSON GAME ENGINE, no exceptions in using API calls outside of the official documentation
+REDPARSON GAME ENGINE: Important - Integrate AI to this project only with REDPARSON GAME ENGINE logic, no exceptions in using API calls outside of the official documentation
 
 /*A Model Controller//View Controller real-time 3D computer graphics software suite and AI game engine*/
 
@@ -31,7 +31,7 @@ Removes redundant content where applicable);
 
 /*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
 
-/*Enable File add/remove, Downloads and Uploads from seeded buckets to the studio*/
+/*Enable add/remove, download/upload to files from seeded buckets*/
 
 /*Enable object drag-drop, add performance logs, and build material editor*/ 
 
@@ -43,7 +43,7 @@ Constructor RED(&Assets(*replicate, &extract, *deduplicate));
 
 /*Model-View-Controller Pipeline*/
 
-&POE << xor << cmp.(WebGL (Three.js) and the Web Audio API) << cmp.CyGlobsPythonFramework << cmp.safe-simulated-game-development-environment
+&POE << xor << cmp.(WebGL (Three.js) and the Web Audio API) << cmp.CyGlobsPythonFramework << cmp.safe-simulated-game-development-environment;
 
 QUOTAS /= Searchable Objects % Interchangeable Codeblocks;
 
