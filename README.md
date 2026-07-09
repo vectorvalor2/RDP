@@ -1,6 +1,6 @@
 REDPARSON GAME ENGINE:
 
-#Using OpenGL
+#Using WebGL (Three.js) and the Web Audio API
 
 #Using https://github.com/vectorvalor2/CyGlobsPythonFramework.git
 
@@ -30,7 +30,7 @@ Removes redundant content where applicable);
 
 /*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
 
-/*Enable File Uploading & Downloading from seeded buckets to the studio*/
+/*Enable File add/remove, Downloads and Uploads from seeded buckets to the studio*/
 
 /*Enable object drag-drop, add performance logs, and build material editor*/ 
 
@@ -42,7 +42,7 @@ Constructor RED(&Assets(*replicate, &extract, deduplicate));
 
 /*Model-View-Controller Pipeline*/
 
-&POE << xor << cmp.OpenGL << cmp.CyGlobsPythonFramework << cmp.safe-simulated-game-development-environment
+&POE << xor << cmp.(WebGL (Three.js) and the Web Audio API) << cmp.CyGlobsPythonFramework << cmp.safe-simulated-game-development-environment
 
 QUOTAS /= Searchable Objects % Interchangeable Codeblocks;
 
@@ -60,7 +60,7 @@ MMU to Buckets -> Bits to Hex to Batch;
 
 MAIN
 
-&RED(&Discernment(*OpenGL, &POE, *CyGlobsPythonFramework)); 
+&RED(&Discernment(*(WebGL (Three.js) and the Web Audio API), &POE, *CyGlobsPythonFramework)); 
 
 /*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
 
