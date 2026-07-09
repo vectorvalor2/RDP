@@ -61,7 +61,7 @@ MMU to Buckets -> Bits to Hex to Batch;
 
 MAIN
 
-&RED(&Discernment(*(WebGL (Three.js) and the Web Audio API), &POE, *CyGlobsPythonFramework); 
+&RED(&Discernment(*(WebGL (Three.js) and the Web Audio API), &POE, *CyGlobsPythonFramework)); 
 
 /*implies the intelligence to separate the high-quality from the poor, and the genuine from the fake*/
 
