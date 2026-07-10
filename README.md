@@ -15,31 +15,33 @@ Removes redundant content where applicable);
 
 #endif
 
-/*linker, preprocessor, & compiler cmds*/
 
-/*interlock/interlink % interject ui components -> scene hierarchy, asset browser, material editor, scene modifier, projects, textures, performance, console, and GUI settings running on top of the safe simulated environment*/
+linker, preprocessor, & compiler cmds
+[
+Interlock/interlink % interject ui components -> scene hierarchy, asset browser, material editor, scene modifier, projects, textures, performance, console, and GUI settings running on top of the safe simulated environment
 
-/*inject the &discernment object to the RED constructor function, onto separation of concerns % cross-cutting concerns, thereof, &POE is to Separate Code From Data*/
+Inject the &discernment object to the RED constructor function, onto separation of concerns % cross-cutting concerns, thereof, &POE is to Separate Code From Data
 
-/*Inject The Safe Simulated Game Development Environment utilizing core layers to build the workflow*/
+Inject the safe simulated game development environment utilizing core layers to build the workflow
 
-/*Enable file reader in order to update to file*/
+Enable file reader in order to update to file
 
-/*Enable object drag-drop, add performance logs, and build material editor*/ 
+Enable object drag-drop, add performance logs, and build material editor
 
-/*Enable interactive placement, and create project library, create texture library, and add performance charts*/
+Enable interactive placement, and create project library, create texture library, and add performance charts
 
-/*make all-in-one creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique/* 
+Make all-in-one creative platform with physics engine interactions that sync up to an audio synthesis layer, triggering unique sound effects based on the intensity and frequency of physics collisions and particle bursts within the scene. The sound effects parameterize the SFX by collision intensity (relative velocity) and frequency (recent collision rate), with per-event randomization so each burst sounds unique
 
-/*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
+Build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones
 
-/*build project templates that point to the address of the safe simulated game development environment, the scene hierarchy, and the generated scene, so that gaming simulations are rendered up to 4k from an architected AI-assisted generation provisioner, that keeps the engine modular and allows different generation services to be plugged in without coupling the editor to one AI model*/
+Build project templates that point to the address of the safe simulated game development environment, the scene hierarchy, and the generated scene, so that gaming simulations are rendered up to 4k from an architected AI-assisted generation provisioner, that keeps the engine modular and allows different generation services to be plugged in without coupling the editor to one AI model
 
-/*build scene modifier to generate 3D scenes, game levels, simulations, and particle systems from assets to projects to scenes to generate the engine viewport*/
+Build scene modifier to generate 3D scenes, game levels, simulations, and particle systems from assets to projects to scenes to generate the engine viewport
 
-/*build the sandbox into a full diagram (CI/CD → sandbox zones with asset registry, safety bounds, transform checkpoints → MVP clip space → safe render output), add a new Interlinked UI section showing all nine interlocked panels running on top of the safe environment, refine the audio synthesis descriptions, and remove the redundant fields*/
+Build the sandbox into a full diagram (CI/CD → sandbox zones with asset registry, safety bounds, transform checkpoints → MVP clip space → safe render output), add a new Interlinked UI section showing all nine interlocked panels running on top of the safe environment, refine the audio synthesis descriptions, and remove the redundant fields
 
-/*build the default engine viewport that opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a distant starfield*/
+Build the default engine viewport that opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a distant starfield
+]
 
 CLASS RED
 
