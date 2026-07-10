@@ -17,7 +17,9 @@ Removes redundant content where applicable);
 
 
 linker, preprocessor, & compiler cmds
+
 [
+
 Interlock/interlink % interject ui components -> scene hierarchy, asset browser, material editor, scene modifier, projects, textures, performance, console, and GUI settings running on top of the safe simulated environment
 
 Inject the &discernment object to the RED constructor function, onto separation of concerns % cross-cutting concerns, thereof, &POE is to Separate Code From Data
@@ -41,6 +43,7 @@ Build scene modifier to generate 3D scenes, game levels, simulations, and partic
 Build the sandbox into a full diagram (CI/CD → sandbox zones with asset registry, safety bounds, transform checkpoints → MVP clip space → safe render output), add a new Interlinked UI section showing all nine interlocked panels running on top of the safe environment, refine the audio synthesis descriptions, and remove the redundant fields
 
 Build the default engine viewport that opens to a space intro — a glowing sun at center with four planets revolving along faint orbit rings against a distant starfield
+
 ]
 
 CLASS RED
