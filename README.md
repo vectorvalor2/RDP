@@ -33,7 +33,7 @@ Removes redundant content where applicable);
 
 /*build a responsive marketing landing page and make the engine dashboard adaptive, ensure the webpage layout, images, and text automatically resize, shrink, or adapt to look great on any device, from desktop monitors to smartphones*/
 
-/*build project templates that point to the address of the safe simulated game development environment, the scene hierarchy, and the generated scene, such that gaming simulations are rendered up to 4k from an architected AI-assisted generation provisioner, that keeps the engine modular and allows different generation services to be plugged in without coupling the editor to one AI model*/
+/*build project templates that point to the address of the safe simulated game development environment, the scene hierarchy, and the generated scene, such is that gaming simulations are rendered up to 4k from an architected AI-assisted generation provisioner, that keeps the engine modular and allows different generation services to be plugged in without coupling the editor to one AI model*/
 
 /*build scene modifier to generate 3D scenes, game levels, simulations, and particle systems from assets to projects to scenes to generate the engine viewport*/
 
